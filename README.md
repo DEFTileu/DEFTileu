@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! 👋 I'm Tileuzhan
 
-<!--
-**DEFTileu/DEFTileu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student at **SDU**, exploring the world of programming and web development.
+- 🌱 I’m learning **Python** and **Java**, taking my first steps in the tech world.
+- 👯 I’m open to collaboration on beginner-friendly projects where I can learn and grow.
+- 🤔 I’m looking for guidance and tips on programming and building effective web applications.
+- 💬 Ask me about my learning journey or share your advice on mastering programming as a beginner!
+- 📫 How to reach me: 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m passionate about learning how technology can transform education and simplify learning for others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! 😊
